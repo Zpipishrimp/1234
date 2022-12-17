@@ -96,9 +96,9 @@ class Buyer(object):
 if __name__ == '__main__':
 
     # 商品sku
-    skuId = '100015253059'
+    skuId = '100040452006'
     # 区域id(可根据工程 area_id 目录查找)
-    areaId = '1_2901_55554_0'
+    areaId = '22-1930-49324-71576'
     # 购买数量
     skuNum = 1
     # 库存查询间隔(秒)
